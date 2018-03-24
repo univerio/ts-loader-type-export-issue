@@ -1,0 +1,12 @@
+{
+  "name": "ts-loader-type-export-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "debug-loader": "^0.0.1",
+    "ts-loader": "^4.1.0",
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.13"
+  }
+}
